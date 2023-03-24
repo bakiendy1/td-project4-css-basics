@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="twitter.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.65625"
+     inkscape:cx="400.7619"
+     inkscape:cy="403.04762"
+     inkscape:window-width="697"
+     inkscape:window-height="728"
+     inkscape:window-x="792"
+     inkscape:window-y="29"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">social_twitter</title>
+  <rect
+     width="24"
+     height="24"
+     fill="none"
+     id="rect4" />
+  <path
+     d="M5,3H19a2,2,0,0,1,2,2V19a2,2,0,0,1-2,2H5a2,2,0,0,1-2-2V5A2,2,0,0,1,5,3M17.71,9.33A4.77,4.77,0,0,0,19,7.92a4.41,4.41,0,0,1-1.44.41,2.92,2.92,0,0,0,1.12-1.47A5.62,5.62,0,0,1,17,7.5,2.72,2.72,0,0,0,12.37,10,7.65,7.65,0,0,1,6.85,7.16a2.87,2.87,0,0,0,.79,3.58,2.94,2.94,0,0,1-1.14-.33,2.68,2.68,0,0,0,2.08,2.68,3.35,3.35,0,0,1-1.14,0A2.67,2.67,0,0,0,9.9,15,5.38,5.38,0,0,1,6,16.08a7,7,0,0,0,4.28,1.23C14.69,17.11,17.64,14,17.71,9.33Z"
+     id="path6"
+     style="fill:#6ce2ff;fill-opacity:1" />
+</svg>

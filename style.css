@@ -1,0 +1,165 @@
+/* Global styling starts here */
+* {
+    box-sizing: border-box;
+    font-family: poppins;
+}
+/* Global styling ends here */
+
+/* General styling starts here */
+body {
+    margin: 0px; 
+}
+
+h2 {
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+ }
+/* General styling ends here */
+
+/* Header and navigation styling starts here */
+header {
+    background-color: #4d9aad;
+    padding: 10px 120px 0px 120px;
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1 {
+    margin-top: 0px;
+    width: 50%;
+    font-family: poppins;
+    color: white;
+    font-weight: 500;
+}
+
+nav ul li {
+    display: inline;
+    padding: 0px 20px;
+}
+
+nav ul li a {
+   text-decoration: none;
+   color: white;
+   font-family: poppins;
+}
+
+ /* Header and navigation styling ends here */
+
+ /* Hero banner section styling starts here */
+section.hero_banner {
+    padding: 100px 450px;
+    text-align: center;
+    background-color: #eefaff;
+}
+
+section.hero_banner img {
+    width: 300px;
+    border-radius: 100%;
+}
+
+section.hero_banner h2 {
+    color: #4797ab;
+    font-weight: 600;
+    line-height: 25px;    
+}
+
+section.hero_banner p {
+    line-height: 25px;
+}
+
+section.hero_banner p img {
+    width: 20px;
+    border-radius: 0px;
+}
+/* Hero banner section styling ends here */
+
+/* Description section styling starts here */
+section.description {
+    padding: 100px 120px;
+    background-color: #157293;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+section.description div.desc_item {
+    width: 50%;
+    padding-right: 80px;
+}
+
+section.description div.desc_item h2.desc_text{
+    font-weight: 600;
+}
+
+section.description div#prompt_me {
+    padding-left: 140px;
+    font-size: 20px;
+    font-weight: 500;
+}
+/* Description section styling ends here */
+
+/* Services section styling starts here */
+section.services {
+    padding: 100px 120px 150px;
+    background-color: #eefaff;
+    display: inline-block;
+}
+
+section h2.service_heading {
+    color: #4797ab;
+    font-weight: 600;
+    padding-bottom: 40px;
+}
+
+section.services div.service_desc {
+    display: flex;
+    justify-content: space-between;
+}
+
+section.services div.service_item {
+    background-color: #324a50;
+    border-radius: 10px;
+    width: 28%;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+section.services div.service_item p {
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 300;
+}
+/* Services section styling ends here */
+
+/* Footer section styling starts here */
+footer {
+    padding: 50px 120px 25px 120px; 
+    background-color: #157293;
+    text-align: center;
+    color: #eefaff;
+    line-height: 20px;
+}
+
+div.social a img {
+    width: 33px;
+    padding: 5px;
+}
+
+footer h6 {
+    font-weight: 300;
+    font-size: 12px;
+    padding-top: 15px;
+}
+
+h3.prompt_heading {
+    font-weight: 600;
+    font-size: 15px;
+}
+/* Services section styling ends here */
+/* Happy debugging */
